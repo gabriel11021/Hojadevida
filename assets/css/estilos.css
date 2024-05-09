@@ -121,7 +121,7 @@ li{
 
 }
 .texto{
-    background-color: rgb(255, 255, 255);
+    background-color: white;
 }
 .centrar{
     position: absolute;
@@ -142,9 +142,9 @@ li{
 }
 
 .alias{
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 }
 
 .bueno{
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 }
